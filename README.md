@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charan0502&label=Profile%20views&color=0e75b6&style=flat" alt="charan0502" /> </p>
 
 
-- 🔭 I’m currently working with **HCL Technologies**
+- 🔭 I’m currently working with **IISC,Bangalore**
 
 - 🌱 I’m currently learning **Deep Learning**
 
